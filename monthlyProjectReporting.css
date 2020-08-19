@@ -23,3 +23,7 @@
     background-color: #289ab0;
     border-color: #289ab0;
 }
+
+:root {
+    --success: #289ab0;
+}
