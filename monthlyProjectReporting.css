@@ -1,11 +1,11 @@
 .fm-page {
-    background-color: #121212 !important; }
+    background-color: #289ab0 !important; }
 
 .border-danger {
   border: #ff0000 1px solid; }
 
 .bg-dark {
-    background-color: #121212 !important;
+    background-color: #289ab0 !important;
 }
 
 .btn-success {
@@ -16,4 +16,10 @@
 
 .mb-1 {
     margin-bottom: -2rem !important;
+}
+
+.btn-success:not(:disabled):not(.disabled):active, .btn-success:not(:disabled):not(.disabled).active, .show > .btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #289ab0;
+    border-color: #289ab0;
 }
