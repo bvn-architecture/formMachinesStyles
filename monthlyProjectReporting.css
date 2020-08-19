@@ -1,8 +1,15 @@
 .fm-page {
     background-color: #121212 !important; }
 
-div.border-danger {
-border: none;}
-
 .border-danger {
   border: #ff0000 1px solid; }
+
+.bg-dark {
+    background-color: #121212 !important;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #121212;
+    border-color: #121212;
+}
