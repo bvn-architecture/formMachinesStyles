@@ -1,8 +1,10 @@
 .fm-page {
-    background-color: #289ab0 !important; }
+    background-color: #289ab0 !important;
+}
 
 .border-danger {
-  border: #ff0000 1px solid; }
+  border: #ff0000 1px solid;
+}
 
 .bg-dark {
     background-color: #289ab0 !important;
@@ -31,8 +33,31 @@
 .btn-success:hover {
     color: #fff;
     background-color: #289ab0;
-    border-color: #289ab0; }
+    border-color: #289ab0;
+}
 
 .img-thumbnail {
   border-radius: 0;
+}
+
+.card {
+    border-radius: 0;
+}
+
+.card-footer:last-child {
+    border-radius: 0;
+}
+
+.card-img {
+  border-radius: 0;
+}
+
+.card-group > .card:only-child .card-header {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.card-group > .card:only-child .card-footer {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
 }
