@@ -55,9 +55,13 @@
 .card-group > .card:only-child .card-header {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
 }
 
 .card-group > .card:only-child .card-footer {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
 }
