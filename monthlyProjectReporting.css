@@ -27,3 +27,8 @@
 :root {
     --success: #289ab0;
 }
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #289ab0;
+    border-color: #289ab0; }
