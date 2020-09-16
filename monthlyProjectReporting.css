@@ -75,11 +75,15 @@
     border-radius: 0;
 }
 
+/*Hides the error message block in Teams Form
+Applies to the id of the div in which the currency boxes live.
+*/
 div[fm-control-id="da1jW0"] > div.ng-star-inserted > label,
 div[fm-control-id="pxy_9Q"] > div.ng-star-inserted > label,
 div[fm-control-id="nTkN4s"] > div.ng-star-inserted > label,
-div[fm-control-id="Q6VFcM"] > div.ng-star-inserted > label,
-div[fm-control-id="-psMb9"] > div.ng-star-inserted > label,
-div[fm-control-id="LEjWJK"] > div.ng-star-inserted > label {
+/*Hides the error message block in Sharepoint Form*/
+div[fm-control-id="_tmuWN"] > div.ng-star-inserted > label,
+div[fm-control-id="69a9ie"] > div.ng-star-inserted > label,
+div[fm-control-id="tEN3jk"] > div.ng-star-inserted > label {
     display: none;
 }
