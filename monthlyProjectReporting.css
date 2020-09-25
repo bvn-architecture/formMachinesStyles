@@ -81,10 +81,10 @@ Applies to the id of the div in which the currency boxes live.
 div[fm-control-id="da1jW0"] > div.ng-star-inserted > label,
 div[fm-control-id="pxy_9Q"] > div.ng-star-inserted > label,
 div[fm-control-id="nTkN4s"] > div.ng-star-inserted > label,
-/*Hides the error message block in Sharepoint Form*/
+/*Hides the error message block in Sharepoint Form
 div[fm-control-id="pg3Ei4"] > div.ng-star-inserted > label,
 div[fm-control-id="GUS0qB"] > div.ng-star-inserted > label,
-div[fm-control-id="ZxIfqw"] > div.ng-star-inserted > label,
+div[fm-control-id="ZxIfqw"] > div.ng-star-inserted > label,*/
 {
     display: none;
 }
