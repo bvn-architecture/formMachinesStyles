@@ -88,3 +88,9 @@ div[fm-control-id="ZxIfqw"] > div.ng-star-inserted > label,*/
 {
     display: none;
 }
+
+hr {
+    margin-bottom: 2rem;
+    border-top: 1px solid hsl(190deg 63% 42% / 30%);
+    border-top-width: 4px;
+}
