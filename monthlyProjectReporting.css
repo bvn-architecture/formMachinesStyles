@@ -90,6 +90,7 @@ div[fm-control-id="ZxIfqw"] > div.ng-star-inserted > label,*/
 }
 
 hr {
+    margin-top: 1.5rem;
     margin-bottom: 2rem;
     border-top: 1px solid hsl(190deg 63% 42% / 30%);
     border-top-width: 4px;
